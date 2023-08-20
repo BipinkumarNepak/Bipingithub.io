@@ -1,0 +1,179 @@
+*{
+    padding: 0%;
+    flex-wrap: wrap;
+    text-wrap: wrap;
+}
+#div1212{
+    flex-wrap: wrap;
+  
+}
+body{
+    background-color: azure;
+}
+#Badal{
+   background-color: azure;
+    display: block;
+}
+
+#BIPIN{
+  margin-left: 10px;
+  margin-right: 10px;
+  color: rgba(79, 225, 16, 0.852);
+}
+#EVERYTHING{
+   padding-left: 10px;
+    padding-right: 20px;
+}
+#WOMEN{
+    padding-left: 10px;
+    padding-right: 20px;
+}
+#MEN{
+    padding-left: 10px;
+    padding-right: 20px;
+}
+#ACCESSORIES{
+    padding-left: 10px;
+    padding-right: 20px;
+}
+#ABOUT{
+    padding-left: 50px;
+}
+#CONTACTUS{
+    padding-left: 30px;
+    padding-right: 20px;
+}
+#search{
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 50px;
+}
+#cart{
+    padding: 9px;
+}
+#secondtable{
+ flex-wrap: wrap;
+ background-image: url(https://p4.wallpaperbetter.com/wallpaper/765/760/856/model-simple-background-women-blue-eyes-wallpaper-preview.jpg);
+ background-repeat: no-repeat;
+ background-size:100% 100% ;
+ display: block;
+ text-align: left ;
+}
+#special{
+    color: black;
+    background-color: white;
+}
+#special1{
+    color: white;
+    font-size: 60px;
+    
+}
+#special2{
+    color: white;
+    font-size: 30px ;
+}
+#button1{
+    background-color: white;
+    padding: 5px;
+    border: 1px solid white;
+}
+#button2{
+    background-color: darkblue;
+    color: white;
+    border: 1px solid white;
+    padding: 5px;
+}
+#abc{
+    height: 400px;
+    width: 200px;
+    
+}
+#lady{
+    background-image: url(https://www.groundzeroweb.com/wp-content/uploads/2016/08/Most-Beautiful-Models-In-The-World-Doutzen-Kroes.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-left: 20px;
+    padding-top: 20px;
+   
+}
+#MoN{
+    background-image: url(http://www.liveenhanced.com/wp-content/uploads/2018/02/Cool-Beard-Shape.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100% ;
+    padding-left: 20px;
+}
+#man{
+    background-image: url(https://i.pinimg.com/736x/f4/6a/6c/f46a6c6eead8a975ee38520a016023a4.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100% ;
+ 
+}
+.bclass{
+    color: white;
+    font-size: 40px;
+    padding-top: 30%;
+}
+.aclass{
+ color: white;
+}
+.butt{
+    padding: 5px;
+    border-color: black;
+    border:2px;
+}
+#noo{
+    color: black;
+    text-align: center;
+    text-decoration: underline pink;
+    
+}
+#mmm{
+    flex-wrap: wrap;
+}
+.tdumg{
+    height: 200px;
+    width: 247px;
+}
+#back{
+    background-image: url(https://images6.alphacoders.com/108/1087619.jpg);
+    background-repeat:  no-repeat;
+    background-size: 100% 100%;
+    height: 400px;
+    flex-wrap: wrap;
+}
+#bii{
+    color: white;
+font-size: 20px;
+}
+.hihihi{
+padding-top: 20px;
+padding-left: 30px;
+color: white;
+}
+#jii{ text-align: left;
+    color: white;
+    font-size: 40px;
+}
+.cccccc{
+    margin-left: 30px;
+    padding: 4px;
+}
+#ott{
+   text-align: center;
+   width: 250px;
+}
+#ooo{
+    height: 50px;
+    width: 50px;
+    
+}
+#tto{
+    text-align: center;
+  
+}
+#nnnnnaananan{
+width: 1250px;
+}
+#sssss{
+    background-color: white;
+}
